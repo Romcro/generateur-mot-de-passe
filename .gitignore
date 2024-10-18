@@ -1,0 +1,22 @@
+# Ignorer l'environnement virtuel
+env/
+venv/
+
+# Ignorer les fichiers compilés Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorer les fichiers de configuration spécifiques à l'IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers de log ou de cache
+*.log
+*.cache
+
+# Ignorer les fichiers de Jupyter Notebook si tu utilises ça pour du prototypage
+.ipynb_checkpoints/
+
+# Ignorer les fichiers spécifiques à Mac (les métadonnées créées par le système)
+.DS_Store
