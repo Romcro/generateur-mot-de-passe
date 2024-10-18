@@ -2,6 +2,16 @@
 env/
 venv/
 
+# Ignorer le dossier dist
+dist/
+
+# Ignorer le dossier build
+build/
+
+# Ignorer les fichiers .spec générés par PyInstaller
+*.spec
+
+
 # Ignorer les fichiers compilés Python
 *.pyc
 *.pyo
