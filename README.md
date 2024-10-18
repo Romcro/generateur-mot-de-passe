@@ -1,4 +1,4 @@
-```markdown
+
 # Générateur de Mot de Passe Sécurisé
 
 ## Description
